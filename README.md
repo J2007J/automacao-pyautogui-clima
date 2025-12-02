@@ -1,0 +1,1 @@
+# automacao-pyautogui-clima
